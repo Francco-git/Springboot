@@ -2,6 +2,11 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\user\Desktop\Projeto-Integrador"/>
+			<item value="C:\Users\user\Desktop\Projeto\Projeto-Integrador\ProjetoIntegrador\ProjetoIntegrador"/>
+			<item value="C:\Users\user\Desktop\ProjetoIntegrador\ProjetoIntegrador"/>
+			<item value="C:\Users\user\Desktop\Spring boot\Springboot\LojadeGames\LojadeGames"/>
+			<item value="C:\Users\user\Desktop\Spring boot\Springboot\Farmacia\Farmacia"/>
 			<item value="C:\Users\user\Desktop\Spring boot\Springboot\ProjetoIntegrador\ProjetoIntegrador"/>
 			<item value="C:\Users\user\Desktop\escola\escola"/>
 			<item value="C:\Users\user\Desktop\blogPessoal\blogPessoal"/>
@@ -79,6 +84,18 @@
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenCheckoutLocationPage">
+		<list key="scmUrl">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
 		</list>
 	</section>
 </section>
